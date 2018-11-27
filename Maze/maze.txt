@@ -1,0 +1,25 @@
+23
+80
+XXXEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X  S                                                                           X
+X  P                                                                           X
+X  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  X
+X  X                                                                        X  X
+X  X                                                               ,        X  X
+X  X  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXX  X  X
+X  XXXX                                                                  X  X  X
+X  X  X                                                                  X  X  X
+X  X  X  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  X  X  X
+X  X  X  X                                                            X  X  X  X
+X  X  X  X                             T,                             XXXX  X  X
+X  X  X  X                                                            X  X  X  X
+X  X  X  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXX  X  X  X
+X  X  X                                                                  X  X  X
+X  X  X                                                                  X  X  X
+X  X  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  X  X
+X  X                                                                    M   X  X
+X  X                                                                        X  X
+X  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXX  X
+X                             X                           ,                    X
+X                             X                                                X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
